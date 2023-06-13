@@ -1,5 +1,5 @@
 # Project Title
----
+
 A brief description of what this project does and who it's for.
 
 <http://logo_link>
@@ -15,6 +15,4 @@ Features
 - Feature 3
 ---
 ### Installation
-> git clone http://github.com/username/projectname.git
-> cd projectname
-> pip install requirements.txt
+> git clone http://github.com/username/projectname.git </br> cd projectname </br> pip install requirements.txt
